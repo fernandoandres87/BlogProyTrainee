@@ -1,0 +1,7 @@
+.slide{
+    background: url("../image/slide.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px; 
+    margin-bottom: 20px;
+}
